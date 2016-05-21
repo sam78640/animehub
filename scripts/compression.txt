@@ -1,0 +1,2 @@
+ffmpeg -i input.avi output.avi
+ffmpeg -i input.avi -r 20 output.avi
